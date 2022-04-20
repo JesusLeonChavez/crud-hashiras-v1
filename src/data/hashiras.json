@@ -1,0 +1,47 @@
+[
+    {
+        "id": 1,
+        "name": "Kyojuro Rengoku",
+        "typeBreathing": "Fire"
+    },
+    {
+        "id": 2,
+        "name": "Giyu Tomioka",
+        "typeBreathing": "Water"
+    },
+    {
+        "id": 3,
+        "name": "Sanemi Shinazugama",
+        "typeBreathing": "Wind"
+    },
+    {
+        "id": 4,
+        "name": "Tengen Uzui",
+        "typeBreathing": "Sound"
+    },
+    {
+        "id": 5,
+        "name": "Mitsuri Kanroji",
+        "typeBreathing": "Love"
+    },
+    {
+        "id": 6,
+        "name": "Shinobu Kocho",
+        "typeBreathing": "Insect"
+    },
+    {
+        "id": 7,
+        "name": "Obanai Iguro",
+        "typeBreathing": "Snake"
+    },
+    {
+        "id": 8,
+        "name": "Tokito Muichiro",
+        "typeBreathing": "Mist"
+    },
+    {
+        "id": 9,
+        "name": "Gyomei Himejima",
+        "typeBreathing": "Rock"
+    }
+]
